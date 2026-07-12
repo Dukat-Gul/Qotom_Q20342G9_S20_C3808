@@ -15,6 +15,8 @@ https://www.qotom.com/products/show/Mini-PC-Q20300S9-S20-Series
 | **Micron** | MTA8ATF51264HZ-2G1A1 <br> 4GB 1RX8 PC4-2133P-SA0-10 | Micron | 4G | 2133 | sodimm2 | 47s | 15s |
 | **Micron** | MTA8ATF51264HZ-2G1A1 <br> 4GB 1RX8 PC4-2133P-SA0-10 | Micron | 8G (dual 4G) | 2133 | dual | 1m 19s | 19s |
 | | | | | | | | |
+| **Micron** <br> [reference](https://forums.servethehome.com/index.php?threads/qotom-denverton-fanless-system-with-4-sfp.41331/page-34#post-456954) | ECC MTA18ASF4G72HZ-3G2R <br> 32GB PC4-25600 | Micron | 64G (dual 32G) | 3200 | dual | TBC | TBC |
+| | | | | | | | |
 | **Crucial/Micron** <br> [reference](https://forums.servethehome.com/index.php?threads/qotom-denverton-fanless-system-with-4-sfp.41331/page-32#post-452840) | ECC 16G MTA18ASF2G72HZ-2G6E1 <br> PC4-21300 | Micron | 16G | 2666 | sodimm1 & 2| TBC | TBC |
 | **Crucial/Micron** <br> [reference](https://forums.servethehome.com/index.php?threads/qotom-denverton-fanless-system-with-4-sfp.41331/page-32#post-452840) | MTA8ATF1G64HZ-3G2J1 <br> 8GB PC4-3200 | Micron | 8G | 3200 | sodimm1 & 2 | TBC | TBC |
 | | | | | | | | |
@@ -43,9 +45,9 @@ https://www.qotom.com/products/show/Mini-PC-Q20300S9-S20-Series
 | **Samsung** | 32G 2Rx8 PC4-3200AA-SE1-11 <br> M471A4G43AB1-CWE | Samsung | 32G | 3200 | sodimm2 | 1m 35s | 35s |
 | **Samsung** | 32G 2Rx8 PC4-3200AA-SE1-11 <br> M471A4G43AB1-CWE | Samsung | 64G (dual 32G) | 3200 | dual | 3m | 1m |
 | | | | | | | | |
-| **Sk hynix** | ECC 32G 2Rx8 PC4-2666V-TG1-11 <br> HMAA4GS7AJR8N-VK TO AC | Sk hynix | 32G | 2666 | sodimm1 | 1m 38s | 35s |
-| **Sk hynix** | ECC 32G 2Rx8 PC4-2666V-TG1-11 <br> HMAA4GS7AJR8N-VK TO AC | Sk hynix | 32G | 2666 | sodimm2 | 1m 40s | 35s |
-| **Sk hynix** | ECC 32G 2Rx8 PC4-2666V-TG1-11 <br> HMAA4GS7AJR8N-VK TO AC | Sk hynix | 64G (dual 32G) | 2666 | dual | 3m 09s | 1m |
+| **Sk hynix** <br> [reference](https://forums.servethehome.com/index.php?threads/qotom-denverton-fanless-system-with-4-sfp.41331/page-26#post-445058)| ECC 32G 2Rx8 PC4-2666V-TG1-11 <br> HMAA4GS7AJR8N-VK TO AC | Sk hynix | 32G | 2666 | sodimm1 | 1m 38s | 35s |
+| **Sk hynix** <br> [reference](https://forums.servethehome.com/index.php?threads/qotom-denverton-fanless-system-with-4-sfp.41331/page-26#post-445058)| ECC 32G 2Rx8 PC4-2666V-TG1-11 <br> HMAA4GS7AJR8N-VK TO AC | Sk hynix | 32G | 2666 | sodimm2 | 1m 40s | 35s |
+| **Sk hynix** <br> [reference](https://forums.servethehome.com/index.php?threads/qotom-denverton-fanless-system-with-4-sfp.41331/page-26#post-445058)| ECC 32G 2Rx8 PC4-2666V-TG1-11 <br> HMAA4GS7AJR8N-VK TO AC | Sk hynix | 64G (dual 32G) | 2666 | dual | 3m 09s | 1m |
 | | | | | | | | |
 | **Sk hynix** <br> [reference](https://forums.servethehome.com/index.php?threads/qotom-denverton-fanless-system-with-4-sfp.41331/page-32#post-452840)| ECC 16G 2Rx8 PC4-21300 <br> HMA82GS7DJR8N-VK | Sk hynix | 16G | 2666 | sodimm1 | TBC | TBC | 
 | **Sk hynix** <br> [reference](https://forums.servethehome.com/index.php?threads/qotom-denverton-fanless-system-with-4-sfp.41331/page-32#post-452840)| ECC 16G 2Rx8 PC4-21300 <br> HMA82GS7DJR8N-VK | Sk hynix | 16G | 2666 | sodimm2 | TBC | TBC | 

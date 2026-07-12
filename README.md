@@ -4,10 +4,7 @@ https://www.qotom.com/products/show/Mini-PC-Q20300S9-S20-Series
 <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/5cb03f32-b49c-4925-8c39-ee37a1644eae" />
 <img width="869" height="545" alt="image" src="https://github.com/user-attachments/assets/2c2dcbdf-6a54-46c5-abec-f31c5fdec325" />
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
+
 <title>RAM Compatibility Test Records</title>
 <style>
     table {
@@ -201,8 +198,6 @@ https://www.qotom.com/products/show/Mini-PC-Q20300S9-S20-Series
     </tbody>
 </table>
 
-</body>
-</html>
 
 
 
